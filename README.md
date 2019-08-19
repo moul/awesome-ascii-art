@@ -30,6 +30,7 @@ A curated list of ASCII Art resources
 * http://github.com/getmillipede
 * https://github.com/moul/sapin
 * https://github.com/ivanceras/svgbob
+* https://github.com/sigvef/sigvehtml
 
 ## Golf
 
