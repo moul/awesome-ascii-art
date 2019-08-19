@@ -38,6 +38,7 @@ A curated list of ASCII Art resources
 ## Galleries
 
 * https://www.gridsagegames.com/rexpaint/gallery.html
+* https://www.asciiart.eu
 
 ## Editors
 
@@ -48,6 +49,7 @@ A curated list of ASCII Art resources
 
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
+* https://www.alt-codes.net/editor.php
 
 ## Libraries
 
@@ -77,6 +79,7 @@ A curated list of ASCII Art resources
 * https://manfred.life/ascii-art-place-ideas
 * https://blog.sourcerer.io/ascii-art-dead-or-alive-cc237391e5d8
 * https://www.w3.org/TR/WCAG10-HTML-TECHS/#ascii-art
+* https://github.com/github/markup
 
 ## Related Lists
 
