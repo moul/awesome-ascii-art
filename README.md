@@ -87,3 +87,5 @@ A curated list of ASCII Art resources
 * https://github.com/ligurio/awesome-ttygames
 * https://github.com/bodiam/awesome-asciidoc
 * https://github.com/gponsinet/awesome-ascii
+* https://github.com/devtooligan/awesome-ascii-art
+
