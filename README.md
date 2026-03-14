@@ -16,6 +16,7 @@ A curated list of ASCII Art resources
 
 * `telnet towel.blinkenlights.nl`
 * http://www.asciimation.co.nz
+* https://ascii.life — AI-powered ASCII animation generator. Convert text, images, and video to animated ASCII art with retro display themes (Matrix, CRT, C64, DOS, Apple II, Amber, Phosphor). Export as GIF or MP4.
 
 ## Programs
 
