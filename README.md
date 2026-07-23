@@ -51,6 +51,8 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://semaphore.bobochang.cn
+  * image to ASCII art converter, runs fully in the browser (no upload)
 
 ## Libraries
 
