@@ -51,6 +51,7 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://nutilz.com/text-to-ascii-art — free browser-based text-to-ASCII-art generator with 6 fill styles (block, hash, stars, pipes, at-sign, shaded), no sign-up
 
 ## Libraries
 
