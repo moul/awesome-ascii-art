@@ -51,6 +51,7 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://imagetoascii.art/ - Convert images to still ASCII art locally in the browser, with text, PNG, SVG, HTML and ANSI exports; free and no signup.
 
 ## Libraries
 
