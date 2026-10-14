@@ -51,6 +51,7 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://semaphore.bobochang.cn/ - Turn images into ASCII art locally in the browser with six charsets including 2×4 braille dithering; free, no upload, open source.
 
 ## Libraries
 
