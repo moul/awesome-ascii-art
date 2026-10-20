@@ -51,6 +51,7 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://artgen.net/en/tools/ascii-art-generator — artgen.net image to ASCII converter (web-based, free with sign-in)
 
 ## Libraries
 
