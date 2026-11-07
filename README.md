@@ -51,6 +51,7 @@ A curated list of ASCII Art resources
 * http://patorjk.com/software/taag/
 * http://asciiflow.com/
 * https://www.alt-codes.net/editor.php
+* https://ascii-images.com/ - Free browser tools for image-to-ASCII, FIGlet banners, and plain-text diagrams; no account required.
 
 ## Libraries
 
